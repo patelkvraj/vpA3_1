@@ -60,7 +60,6 @@ Output:	// If any
 #include <iostream>
 #include <fstream>
 #include <iomanip>
-#include <typeinfo>
 using namespace std;
 
 /*	Function prototypes */
