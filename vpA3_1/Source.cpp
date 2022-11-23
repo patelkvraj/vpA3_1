@@ -87,9 +87,9 @@ int main() {
 			
 			/* Declaring variables */
 			int days;										//	To hold days, a patient has spent in the hospital
-			double room_rate;								//	To hold room's rate at the hospital
-			double other_charges;							//	To hold a patient's other charges
-			double med_charges;								//	To hold a patient's medication charges
+			double room_rate,								//	To hold room's rate at the hospital
+				   other_charges,							//	To hold a patient's other charges
+				   med_charges;								//	To hold a patient's medication charges
 
 			cout << "\n\n*********In-patient*********\n";
 			
@@ -130,8 +130,8 @@ int main() {
 		else if (which_patient == "O" || which_patient == "o") {	//	Both alphabet cases works 
 
 			/* Declaring variables */
-			double other_charges;									//	To hold a patient's other charges
-			double med_charges;										//	To hold a patient's medication charges
+			double other_charges,									//	To hold a patient's other charges
+				   med_charges;										//	To hold a patient's medication charges
 
 			cout << "\n\n*********Out-patient*********\n";
 			
