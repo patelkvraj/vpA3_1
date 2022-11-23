@@ -47,6 +47,7 @@ _________________
 										I created "hospital.txt" file for streaming data. I wrote appropriate code to stream data (total hospital charges) to the file. 
 										I wrote the code to open, use and close the "hospital.txt" file.
 	11/23/22			VP				I added design to "hospital.txt" file for better UX experience. I added two decimal notation setprecision() for floating-point values. 
+	Later "Revision History" is on on GitHub
 */
 
 // For every function
